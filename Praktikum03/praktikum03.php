@@ -78,7 +78,7 @@ if ($skor >= 100 && $skor <= 150) {
 <body style="background-color: #bbe1e9;">
     <div class="container" style="border: 1.5px solid black;">
         <h1 class="text-center">Form Pendaftaran</h1><br>
-        <form method="POST" action="form.php">
+        <form method="POST" action="praktikum03.php">
             <div class="form-group row">
                 <label for="nim" class="col-4 col-form-label font-weight-bold">NIM</label>
                 <div class="col-8">
