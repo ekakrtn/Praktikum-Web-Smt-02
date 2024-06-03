@@ -1,5 +1,5 @@
-  <!-- Main Sidebar Container -->
-  <aside class="main-sidebar sidebar-dark-primary elevation-4">
+<!-- Main Sidebar Container -->
+<aside class="main-sidebar sidebar-dark-primary elevation-4">
       <!-- Brand Logo -->
       <a href="../../index3.html" class="brand-link">
           <img src="{{ asset('assets/img/AdminLTELogo.png') }}" alt="AdminLTE Logo"
@@ -51,19 +51,19 @@
                           <li class="nav-item">
                               <a href="../../index.html" class="nav-link">
                                   <i class="far fa-circle nav-icon"></i>
-                                  <p>Dashboard v1</p>
+                                  <p>pasien</p>
                               </a>
                           </li>
                           <li class="nav-item">
                               <a href="../../index2.html" class="nav-link">
                                   <i class="far fa-circle nav-icon"></i>
-                                  <p>Dashboard v2</p>
+                                  <p>Dokter</p>
                               </a>
                           </li>
                           <li class="nav-item">
                               <a href="../../index3.html" class="nav-link">
                                   <i class="far fa-circle nav-icon"></i>
-                                  <p>Dashboard v3</p>
+                                  <p>Periksa</p>
                               </a>
                           </li>
                       </ul>

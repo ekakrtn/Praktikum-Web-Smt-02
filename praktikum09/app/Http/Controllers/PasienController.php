@@ -50,7 +50,7 @@ class PasienController extends Controller
             'alamat' => $request->alamat,
         ]);
         // redirect ke index
-        return redirect ()->route('pasiens,index');
+        return redirect ()->route('pasiens.index');
     }
 
     /**
@@ -84,6 +84,6 @@ class PasienController extends Controller
     {
         $pasien->delete();
         //redirect ke index
-        return redirect ()->route('pasiens,index');
+        return redirect ()->route('pasiens.index');
     }
 }
